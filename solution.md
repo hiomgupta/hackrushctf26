@@ -262,6 +262,8 @@
   solution - 
   count the space between the words - single space to be 0; double spaces to be 1 - from this binary string - convert this binary string to decimal - tried and got success.
 
+  Answer: HRCTF{39909566}
+
   ----------------------
 
   ## Happy Birthday
@@ -292,8 +294,7 @@
 
   Checked this and got the correct answer.
 
-  Answer: HRCTF{39909566}
-
+Answer: HRCTF{1765547079}
   ---
 
   ## The Bug
