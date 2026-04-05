@@ -154,8 +154,8 @@
   ' UNION SELECT 1,2,3 /* → success (200 OK)
   Determined column count = 3 (login), 5 (search), 4 (admin query)
   Accessed /search after login → explored employee data
-  Manish from Management has passcode
-  Tried extracting Manish data via UNION
+  from Management has passcode
+  Tried extracting data via UNION
 
   Observation:
 
@@ -182,7 +182,7 @@
   Tried comment/encoding bypass for or → blocked
   Tried brute forcing passcode → failed
   Tried schema enumeration (sqlite_master, pragma) → blocked
-  Attempted extracting full Manish records → partially blocked due to output filtering
+  Attempted extracting full records → partially blocked due to output filtering
 
   Answer:
   - The Admins: HRCTF{7RUSH_1N_7H3_D474}
